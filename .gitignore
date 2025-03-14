@@ -1,0 +1,13 @@
+# Ignore Golang binaries
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.bin
+
+# Ignore dependency files
+vendor/
+
+# Ignore environment files
+.env
